@@ -80,8 +80,8 @@ Total Pajak: Rp. 13000.0
 ## 📂 Project Structure
 ```
 .
-├── order.py
-└── README.md
+├── README.md
+└── order.py
 ```
 
 ---
