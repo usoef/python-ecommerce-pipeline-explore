@@ -54,7 +54,8 @@ This shows the system works correctly in handling data and performing calculatio
 python order.py
 ```
 
-## Example Output
+## 📊 Example Output
+```
 ====== DAFTAR ORDER ======
 
                 Order ID: A11
@@ -72,13 +73,17 @@ python order.py
 --------------------------------------------------
 Total Pendapatan: Rp. 130000
 Total Pajak: Rp. 13000.0
+```
 
-# Project Structure
+---
 
+## 📂 Project Structure
+```
 .
 ├── order.py
 └── README.md
-
+```
+---
 
 ## Future Improvements
 - Add user input (CLI)
@@ -87,6 +92,7 @@ Total Pajak: Rp. 13000.0
 - Export data to CSV/Excel
 - Add database integration
 
+---
 
 ## Author
 - Yusuf Abdulloh
