@@ -83,9 +83,11 @@ Total Pajak: Rp. 13000.0
 ├── order.py
 └── README.md
 ```
+
 ---
 
-## Future Improvements
+
+## 🚀 Future Improvements
 - Add user input (CLI)
 - Search order by ID
 - Update and delete order
@@ -94,5 +96,6 @@ Total Pajak: Rp. 13000.0
 
 ---
 
-## Author
+
+## 👤 Author
 - Yusuf Abdulloh
